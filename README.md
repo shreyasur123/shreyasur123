@@ -1,13 +1,17 @@
-# Hi👋, I'm Shreya Sur
+#  Hi👋, I'm Shreya Sur
 
 ## ML Enthusiast
 
 - 🌱 I’m currently learning Machine Learning.
 - 😄 Pronouns: she/her
+- ⚡ Fun fact: I learn faster than my algorithms - constantly updating my skills in ML, one epoch at a time!
   
 ![Profile Views](https://komarev.com/ghpvc/?username=shreyasur123)
 
-## GitHub Stats
+## Trophies
+![](https://github-profile-trophy.vercel.app/?username=shreyasur123)
+
+## Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyasur123&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasur123&layout=compact&theme=radical)
