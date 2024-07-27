@@ -2,14 +2,21 @@
 
 ## ML Enthusiast
 
-- 🌱 I’m currently learning Machine Learning.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I learn faster than my algorithms - constantly updating my skills in ML, one epoch at a time!
+- 🌱 I’m currently learning: **Machine Learning**.
+  
+- 😄 Pronouns: **she/her**
+  
+- 📫 How to reach me: **shreyasur965@gmail.com**
+  
+- ⚡ Fun fact: **I learn faster than my algorithms - constantly updating my skills in ML, one epoch at a time!**
   
 ![Profile Views](https://komarev.com/ghpvc/?username=shreyasur123)
 
+## Connect With Me
+<a href="https://www.linkedin.com/in/shreya-s-6a3094215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-s-6a3094215" height="30" width="40" /></a>
+  
 ## Trophies
-![](https://github-profile-trophy.vercel.app/?username=shreyasur123)
+![](https://github-profile-trophy.vercel.app/?username=shreyasur123&theme=radical)
 
 ## Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyasur123&show_icons=true&theme=radical)
