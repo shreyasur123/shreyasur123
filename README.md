@@ -2,9 +2,11 @@
 
 ## ML Enthusiast
 
-- 🌱 I’m currently learning: **Machine Learning**.
+- 🌱 I’m currently learning: **Machine Learning**
   
 - 😄 Pronouns: **she/her**
+
+- 💬 Ask me about **Machine Learning**
   
 - 📫 How to reach me: **shreyasur965@gmail.com**
   
