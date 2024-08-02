@@ -15,7 +15,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shreyasur123)
 
 ## Connect With Me
-<a href="https://www.linkedin.com/in/shreya-s-6a3094215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-s-6a3094215" height="30" width="40" /></a> <a href="https://www.kaggle.com/shreyasur965" target="blank"><img align="center" src="C:\Users\SHREYA\Downloads\kaggle_icon-removebg-preview.png" alt="shreyasur965" height="30" width="40" />
+<a href="https://www.linkedin.com/in/shreya-s-6a3094215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-s-6a3094215" height="30" width="40" /></a> <a href="https://www.kaggle.com/shreyasur965" target="blank"><img align="center" src="https://github.com/shreyasur123/Icons/blob/main/icons/kaggle/kaggle%20icon.png" alt="shreyasur965" height="30" width="40" /> </a>
   
 ## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shreyasur123&theme=radical)
