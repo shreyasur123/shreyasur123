@@ -2,7 +2,7 @@
 
 ## ML Enthusiast
 
-- 🌱 I’m currently learning: **Machine Learning**
+- 🌱 I’m currently learning: **Machine Learning and Data Science**
   
 - 😄 Pronouns: **she/her**
 
