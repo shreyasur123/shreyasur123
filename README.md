@@ -1,12 +1,12 @@
 #  Hi👋, I'm Shreya Sur
 
-## ML Enthusiast
+## ML and DS Enthusiast
 
 - 🌱 I’m currently learning: **Machine Learning and Data Science**
   
 - 😄 Pronouns: **she/her**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning, Data Science**
   
 - 📫 How to reach me: **shreyasur965@gmail.com**
   
